@@ -29,8 +29,7 @@ The iteration of optimizations can be viewed in the `src` directory, scaling fro
  ┃ ┣ 📜 version3_shared_memory.cu        # Shared Memory Tiling Kernels
  ┃ ┗ 📜 version4_optimized_convolution.cu# Final Optimized Convolution & MatMul Kernels
  ┣ 📂 data
- ┣ 📂 report
- ┣ 📂 slides
+ ┣ 📂 docs                               # Implementation and Research Reports
  ┣ 📜 .gitignore
  ┣ 📜 Makefile                           # Standard NVCC Build System
  ┗ 📜 README.md
